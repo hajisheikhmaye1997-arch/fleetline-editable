@@ -1,0 +1,16 @@
+{
+  "id": "./driver.html",
+  "name": "Fleetline Driver",
+  "short_name": "Driver",
+  "description": "Log trips and create month-end reports",
+  "start_url": "./driver.html",
+  "scope": "./driver.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F2F1EC",
+  "theme_color": "#14171A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
